@@ -1,0 +1,8 @@
+.card_header {
+  background-color: coral;
+  text-align: center;
+  color:antiquewhite;
+  display: flex;
+  justify-content: center;
+  font-size: 15px;
+}

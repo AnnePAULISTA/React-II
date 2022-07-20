@@ -1,0 +1,28 @@
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  margin-left: 330px;
+}
+
+.project {
+  width: 600px;
+  height: 300px;
+  margin: 40px;
+}
+
+.project img {
+  width: 600px;
+  height: 300px;
+  border-radius: 10px;
+  padding-bottom: 50px;
+}
+
+.projects {
+  text-align: center;
+  color: coral;
+  font-size: 30px;
+}

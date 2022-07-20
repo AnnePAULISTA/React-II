@@ -1,0 +1,18 @@
+.header-repos {
+  text-align: center;
+  color: coral;
+  font-size: 30px;
+  margin-top: 100px;
+}
+
+.infos {
+  margin:10px;
+  background-color: coral;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px;
+  align-items: center;
+  font-weight: 100px;
+  color: antiquewhite;
+}

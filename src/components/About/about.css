@@ -1,0 +1,26 @@
+.about {
+    display: flex;
+    margin: 40px auto;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    width: 50%;
+    margin-top: 1px;
+}
+
+.about img {
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.about h2 {
+    font-size: 25px;
+    color:coral;
+}
+
+.about p {
+    font-size: 20px;
+    text-align: center;
+}
